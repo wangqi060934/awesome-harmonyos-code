@@ -44,12 +44,13 @@ A list of awesome open source HarmonyOS projects.
 - [AloeSend](https://github.com/Aloereed/localsend-ohos) - 鸿蒙版 LocalSend
 
 ## Forum
+- [ArkDO](https://github.com/EnjoySR/ArkDO) - 开源LINUX DO社区客户端
 - [S1 Orange](https://github.com/wly5556/S1-Orange) - 开源Stage1st论坛客户端
 
 ## Tools
-- [AppBundleNameForShared](https://github.com/SummerKaze/HMOS-AppBundleNameForShared) - 应用包名解析
 - [Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer
 - [Harmonix](https://github.com/harmoninux/Harmonix) - A terminal for running Linux ELF binary on HarmonyOS PC
+- [CrossShellNext](https://gitcode.com/OpenHarmonyPCDeveloper/CrossShellNext)  - 适用于OpenHarmony 的SSH连接工具
 
 ## Shell
 - [HiSH](https://github.com/harmoninux/HiSH) - 在鸿蒙上运行Linux Shell，支持手机、平板、2in1/PC、TV，类似iOS/iPadOS上的iSH
@@ -60,4 +61,4 @@ A list of awesome open source HarmonyOS projects.
 - [Abcde](https://github.com/Yricky/abcde) - openHarmony逆向工具包，初步支持反编译
 
 # Reference
-- https://github.com/Zitann/HarmonyOS-Haps?tab=readme-ov-file
+- https://github.com/Zitann/HarmonyOS-Haps
