@@ -40,8 +40,10 @@ A list of awesome open source HarmonyOS projects.
 ## Network
 - [ClashBox](https://github.com/xiaobaigroup/ClashBox) - 代理软件
 - [Moonlight](https://gitee.com/smdsbz/moonlight-ohos) - Moonlight客户端
+- [Moonlight V+](https://github.com/AlkaidLab/moonlight-harmony) Moonlight客户端
 - [Wake](https://github.com/azhuge233/Wake-HarmonyOS) - 网络唤醒应用
 - [AloeSend](https://github.com/Aloereed/localsend-ohos) - 鸿蒙版 LocalSend
+- [ZeroTierBox](https://github.com/xiaobaigroup/ZeroTierBox) - 基于 ZeroTier 的虚拟组网工具
 
 ## Forum
 - [ArkDO](https://github.com/EnjoySR/ArkDO) - 开源LINUX DO社区客户端
