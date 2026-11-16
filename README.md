@@ -44,6 +44,7 @@ A list of awesome open source HarmonyOS projects.
 - [Wake](https://github.com/azhuge233/Wake-HarmonyOS) - 网络唤醒应用
 - [AloeSend](https://github.com/Aloereed/localsend-ohos) - 鸿蒙版 LocalSend
 - [ZeroTierBox](https://github.com/xiaobaigroup/ZeroTierBox) - 基于 ZeroTier 的虚拟组网工具
+- [MeshArc](https://github.com/flypigJ/Tailscale-OHOS) - 鸿蒙版 Tailscale 客户端
 
 ## Forum
 - [ArkDO](https://github.com/EnjoySR/ArkDO) - 开源LINUX DO社区客户端
