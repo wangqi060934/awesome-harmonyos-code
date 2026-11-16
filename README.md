@@ -9,6 +9,7 @@ A list of awesome open source HarmonyOS projects.
 - [Kelivo](https://github.com/Chevey339/kelivo) - LLM 聊天客户端
 
 ## Browser
+- [Aira Browser](https://github.com/mason173/aira-browser) - 鸿蒙原生浏览器，支持多标签、下载和跨设备同步
 - [冲浪猫](https://github.com/awaLiny2333/LinysBrowser_NEXT) - A basic browser on HarmonyOS NEXT
 
 ## Security
@@ -33,9 +34,13 @@ A list of awesome open source HarmonyOS projects.
 - [SweetVideo/流心播放器](https://github.com/Yebingiscn/SweetVideo) - 为 Harmony OS Next 开发的本地视频软件，基于 流心视频 二次开发 
 
 ## Read
+- [开源轻页](https://github.com/wip3l/qingye-reader) - 鸿蒙阅读应用（核心代码开源，AI 子模块未开源）
 - [Harmshelf](https://github.com/shanyan-wcx/Harmshelf) - Audiobookshelf的鸿蒙原生客户端
 - [轻阅读](https://github.com/autobcb/read) - 全移动端可用的阅读应用，支持多端同步阅读进度
 - ~~[开源阅读](https://github.com/mgz0227/legado-Harmony)~~ - 开源阅读鸿蒙版 （现已闭源）
+
+## Notes
+- [joplin-hap](https://github.com/Lancenas/joplin-hap) - Joplin 鸿蒙原生笔记客户端
 
 ## Network
 - [ClashBox](https://github.com/xiaobaigroup/ClashBox) - 代理软件
